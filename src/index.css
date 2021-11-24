@@ -11,3 +11,39 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.head_text{
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+}
+.card-img-top{
+  height: 250px;
+  object-fit: cover;
+}
+.button-footer{
+  margin-bottom: 50px;
+}
+.cart-height{
+  height: 96%;
+}
+.cart-desc{
+  height: 60px;
+}
+.loading-center{
+  margin-top: 20%;
+}
+.author{
+  margin-top: 10%;
+}
+.date_time{
+  height: 40px;
+}
+
+.hower:hover {
+  box-shadow: 3px 3px #bdbaba;
+  opacity: 0.9;
+}
+/* .hower:hover {
+  transform: scale(0.9);
+    transition-duration: 0.5s;
+} */
