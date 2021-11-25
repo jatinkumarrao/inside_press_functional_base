@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/inside_press_functional_base/static/css/main.d5f10083.chunk.css",
+    "main.js": "/inside_press_functional_base/static/js/main.e2408ea7.chunk.js",
+    "main.js.map": "/inside_press_functional_base/static/js/main.e2408ea7.chunk.js.map",
+    "runtime-main.js": "/inside_press_functional_base/static/js/runtime-main.b768652b.js",
+    "runtime-main.js.map": "/inside_press_functional_base/static/js/runtime-main.b768652b.js.map",
+    "static/js/2.d9d27dae.chunk.js": "/inside_press_functional_base/static/js/2.d9d27dae.chunk.js",
+    "static/js/2.d9d27dae.chunk.js.map": "/inside_press_functional_base/static/js/2.d9d27dae.chunk.js.map",
+    "static/js/3.07f6c99a.chunk.js": "/inside_press_functional_base/static/js/3.07f6c99a.chunk.js",
+    "static/js/3.07f6c99a.chunk.js.map": "/inside_press_functional_base/static/js/3.07f6c99a.chunk.js.map",
+    "index.html": "/inside_press_functional_base/index.html",
+    "static/css/main.d5f10083.chunk.css.map": "/inside_press_functional_base/static/css/main.d5f10083.chunk.css.map",
+    "static/js/2.d9d27dae.chunk.js.LICENSE.txt": "/inside_press_functional_base/static/js/2.d9d27dae.chunk.js.LICENSE.txt",
+    "static/media/loader_image.065f8f5c.gif": "/inside_press_functional_base/static/media/loader_image.065f8f5c.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b768652b.js",
+    "static/js/2.d9d27dae.chunk.js",
+    "static/css/main.d5f10083.chunk.css",
+    "static/js/main.e2408ea7.chunk.js"
+  ]
+}
